@@ -1,15 +1,20 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-cs320projectjustebou-dev-98515-authRole",
-      "UnauthRoleArn": "arn:aws:iam::730335528058:role/amplify-cs320projectjustebou-dev-98515-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::730335528058:role/amplify-cs320projectjustebou-dev-98515-authRole",
+      "AuthRoleName": "amplify-cs320projectjustebou-dev-e2c44-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335528058:role/amplify-cs320projectjustebou-dev-e2c44-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335528058:role/amplify-cs320projectjustebou-dev-e2c44-authRole",
       "Region": "us-west-1",
-      "DeploymentBucketName": "amplify-cs320projectjustebou-dev-98515-deployment",
-      "UnauthRoleName": "amplify-cs320projectjustebou-dev-98515-unauthRole",
-      "StackName": "amplify-cs320projectjustebou-dev-98515",
-      "StackId": "arn:aws:cloudformation:us-west-1:730335528058:stack/amplify-cs320projectjustebou-dev-98515/cb2c4c40-d37f-11ef-beb5-0696f68f1cf1",
-      "AmplifyAppId": "dueptnzjadnbi"
+      "DeploymentBucketName": "amplify-cs320projectjustebou-dev-e2c44-deployment",
+      "UnauthRoleName": "amplify-cs320projectjustebou-dev-e2c44-unauthRole",
+      "StackName": "amplify-cs320projectjustebou-dev-e2c44",
+      "StackId": "arn:aws:cloudformation:us-west-1:730335528058:stack/amplify-cs320projectjustebou-dev-e2c44/d830af10-de94-11ef-9151-021ab53e8497",
+      "AmplifyAppId": "d14a0ja6psixar"
+    },
+    "categories": {
+      "auth": {
+        "cs320projectjustebou10420120": {}
+      }
     }
   }
 }
